@@ -21,9 +21,11 @@ information with us in the form of 3 different datasets:
 - Product (Meal) features such as category, sub-category, current price, and discount
 - Information for fulfilment centres like centre area, city information, etc.
 <br>The dataset required has been provided along with this document.
-<br>Need to come up with a story in Tableau that talks about the level of demand in each
+
+Need to come up with a story in Tableau that talks about the level of demand in each
 centre. 
-<br>This analysis needs to be granular enough to include product information as well. The
+
+This analysis needs to be granular enough to include product information as well. The
 client wants an end-to-end report to understand which fulfilment areas are doing well and
 which aren't. You can also talk about centre-meal combinations to add nuance to your final
 project.
