@@ -1,11 +1,12 @@
 # Food-Forecasting-Analysis-Tableau
 
-Analysing Data for Superstore <br> 
+Analysing Data for Superstore 
+<br><br>
 Use your newly acquired Tableau skills to analyse, manipulate, wrangle, and visualize the data
 for a huge Superstore franchise. You will work with a dataset that covers features like product
 name, categories, regions, cities, and a whole host of other variables. Create
 business stories and build dashboards in this project.
-<br><br>
+<br>
 ### Food Forecasting Analysis
 Your client is a meal delivery company that operates in multiple cities. They have various
 fulfilment centres in these cities for dispatching meal orders to their customers. The client
